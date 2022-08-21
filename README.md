@@ -1,2 +1,2 @@
 # StaticPage2
-url link:https://ginitoru2.netlify.app/
+url link :https://ginitoru2.netlify.app/
